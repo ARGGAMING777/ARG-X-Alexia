@@ -74,7 +74,7 @@ The second easiest way to host this bot, Deploy on Okteto Cloud
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/q7pZ9c?referralCode=j-p8ba)
 
 ### ᴄʀᴇᴅɪᴛs 👑
-- [ ᵀᵉᵃᵐ『𝐒.𝐒』🇮🇳➤『𝙰𝚁𝙶』](https://t.me/ARG_GAMING_9300): Developer
+- [ ×͜×『ᴀʀɢ』࿐](https://t.me/ARG_GAMING_9300): Developer
 - [ARG-X-MUSIC 🎧](http://t.me/VIDEOxMUSIC_STREAMbot): Use this Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
